@@ -77,7 +77,7 @@ $(document).ready(function(){
         
     });
     var typed= new Typed(".typing-2", {
-        strings:["Youtuber","Developer","Programer","Designer","Freelancer"],
+        strings:["Youtuber","Developer","Analyst","Designer"],
         typeSpeed:100,
         backSpeed:60,
         loop:true
